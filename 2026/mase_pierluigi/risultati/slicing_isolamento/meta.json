@@ -1,0 +1,8 @@
+{
+  "scenario": "slicing_isolamento",
+  "qos": true,
+  "incrociato": true,
+  "t_inizio": 1789899420.1212008,
+  "t_fine": 1789899484.0700293,
+  "durata_s": 60
+}

@@ -1,0 +1,8 @@
+{
+  "scenario": "slicing_qos_finale",
+  "qos": true,
+  "incrociato": false,
+  "t_inizio": 1789899059.1493118,
+  "t_fine": 1789899123.1068773,
+  "durata_s": 60
+}

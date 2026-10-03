@@ -1,0 +1,52 @@
+== s1-eth3
+class htb 1:fffe root rate 4Mbit ceil 4Mbit burst 1500b cburst 1500b 
+ Sent 30767641 bytes 21371 pkt (dropped 0, overlimits 5489 requeues 0) 
+ backlog 0b 0p requeues 0
+ lended: 5451 borrowed: 0 giants: 0
+ tokens: 42901 ctokens: 42901
+
+class htb 1:1 parent 1:fffe prio 0 rate 400Kbit ceil 4Mbit burst 1564b cburst 1564b 
+ Sent 6172889 bytes 4315 pkt (dropped 9209, overlimits 1192 requeues 0) 
+ backlog 0b 0p requeues 0
+ lended: 2211 borrowed: 2104 giants: 0
+ tokens: 376814 ctokens: 44901
+
+class htb 1:2 parent 1:fffe prio 0 rate 2Mbit ceil 4Mbit burst 1564b cburst 1564b 
+ Sent 19505934 bytes 13527 pkt (dropped 0, overlimits 3248 requeues 0) 
+ backlog 0b 0p requeues 0
+ lended: 10180 borrowed: 3347 giants: 0
+ tokens: -89027 ctokens: 3812
+
+class htb 1:3 parent 1:fffe prio 0 rate 800Kbit ceil 1200Kbit burst 1564b cburst 1563b 
+ Sent 5088818 bytes 3529 pkt (dropped 0, overlimits 17 requeues 0) 
+ backlog 0b 0p requeues 0
+ lended: 3529 borrowed: 0 giants: 0
+ tokens: 19062 ctokens: 12707
+
+
+== s1-eth4
+class htb 1:fffe root rate 4Mbit ceil 4Mbit burst 1500b cburst 1500b 
+ Sent 25610688 bytes 17771 pkt (dropped 0, overlimits 6104 requeues 0) 
+ backlog 0b 0p requeues 0
+ lended: 15683 borrowed: 0 giants: 0
+ tokens: 44812 ctokens: 44812
+
+class htb 1:1 parent 1:fffe prio 0 rate 400Kbit ceil 4Mbit burst 1564b cburst 1564b 
+ Sent 25610688 bytes 17771 pkt (dropped 0, overlimits 5299 requeues 0) 
+ backlog 0b 0p requeues 0
+ lended: 2088 borrowed: 15683 giants: 0
+ tokens: 451153 ctokens: 46812
+
+class htb 1:2 parent 1:fffe prio 0 rate 2Mbit ceil 4Mbit burst 1564b cburst 1564b 
+ Sent 0 bytes 0 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+ lended: 0 borrowed: 0 giants: 0
+ tokens: 97750 ctokens: 48875
+
+class htb 1:3 parent 1:fffe prio 0 rate 800Kbit ceil 1200Kbit burst 1564b cburst 1563b 
+ Sent 0 bytes 0 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+ lended: 0 borrowed: 0 giants: 0
+ tokens: 244375 ctokens: 162916
+
+
