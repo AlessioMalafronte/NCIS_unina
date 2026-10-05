@@ -1,0 +1,246 @@
+NCIS - COMANDI MININET
+Rilevamento e mitigazione dinamica di attacchi DoS in reti SDN
+
+NOTE GENERALI
+# Per ogni versione del controller usare due terminali:
+#
+# TERMINALE 1 -> avvio del controller Ryu
+# TERMINALE 2 -> avvio della topologia Mininet
+#
+# I comandi indicati con "mininet>" vanno eseguiti nella CLI di Mininet.
+# I comandi indicati con "terminale>" vanno eseguiti nel normale terminale Linux.
+#
+# Prima di passare a un controller diverso:
+# 1. terminare il controller Ryu con CTRL+C
+# 2. uscire da Mininet con "exit"
+# 3. eseguire "sudo mn -c"
+# 4. avviare il nuovo controller
+# 5. riavviare topology.py
+# 6. nel terminale mininet pulisco processi iperf precedenti per ogni prova
+mininet> h1 pkill iperf
+mininet> h2 pkill iperf
+mininet> h3 pkill iperf
+
+
+
+============================================================
+1. CONTROLLER BASE - CONTROLLO TOPOLOGIA
+============================================================
+
+# TERMINALE 1
+terminale> ryu-manager controller_base.py
+
+# TERMINALE 2
+terminale> sudo python3 topology.py
+
+# verifica la raggiungibilita tra tutti gli host
+mininet> pingall
+mininet> h1 ping -c 4 h3
+mininet> h2 ping -c 4 h3
+
+
+============================================================
+2. CONTROLLER BASE - BASELINE NORMALE
+============================================================
+
+# avvio il server TCP su h3
+mininet> h3 iperf -s -p 5001 &
+
+# misura il throughput TCP di h2 verso ,RTT medio e packet loss
+mininet> h2 iperf -c 10.0.0.3 -p 5001 -t 10
+mininet> h2 ping -c 20 h3
+
+# termina il server 
+mininet> h3 pkill iperf
+
+
+============================================================
+3. CONTROLLER BASE - DOS SENZA PROTEZIONE
+============================================================
+
+# avvia su h3 il server TCP per il client legittimo h2
+mininet> h3 iperf -s -p 5001 &
+
+# avvia su h3 il server UDP per il traffico di h1
+mininet> h3 iperf -s -u -p 5002 &
+
+# h1 genera traffico UDP a 15 Mbit/s verso h3
+mininet> h1 iperf -c 10.0.0.3 -u -p 5002 -b 15M -t 40 &
+
+# attendere che l attacco sia stabilizzato
+
+
+# misura il throughput del traffico legittimo durante il DoS
+mininet> h2 iperf -c 10.0.0.3 -p 5001 -t 10
+
+# misura RTT medio e packet loss durante il DoS
+mininet> h2 ping -c 20 h3
+
+
+============================================================
+4. CONTROLLER MONITORING
+============================================================
+
+# TERMINALE 1
+terminale> ryu-manager controller_monitoring.py
+
+# TERMINALE 2
+terminale> sudo python3 topology.py
+
+# verifica iniziale
+mininet> pingall
+
+
+# avvia i server su h3
+mininet> h3 iperf -s -p 5001 &
+mininet> h3 iperf -s -u -p 5002 &
+
+# avvia lo stesso attacco DoS
+mininet> h1 iperf -c 10.0.0.3 -u -p 5002 -b 15M -t 40 &
+#attesa di qualche secondo
+
+# genera anche il traffico legittimo
+mininet> h2 iperf -c 10.0.0.3 -p 5001 -t 10
+mininet> h2 ping -c 20 h3
+
+# nel terminale Ryu verificare i valori di throughput delle porte
+# s1 port 1 rx ... Mbit/s
+
+
+============================================================
+5. CONTROLLER DETECTION
+============================================================
+
+# TERMINALE 1
+terminale> ryu-manager controller_detection.py
+
+# TERMINALE 2
+terminale> sudo python3 topology.py
+
+# verifica iniziale
+mininet> pingall
+
+# pulizia processi
+mininet> h1 pkill iperf
+mininet> h2 pkill iperf
+mininet> h3 pkill iperf
+
+# avvia i server su h3
+mininet> h3 iperf -s -p 5001 &
+mininet> h3 iperf -s -u -p 5002 &
+
+# avvia lo stesso attacco DoS
+mininet> h1 iperf -c 10.0.0.3 -u -p 5002 -b 15M -t 40 &
+#attesa 2sec
+
+# genera il traffico legittimo
+mininet> h2 iperf -c 10.0.0.3 -p 5001 -t 10
+mininet> h2 ping -c 20 h3
+
+# nel terminale Ryu verificare:
+# - superamento della soglia di 12 Mbit/s
+# - comparsa del messaggio "ALARM possible DoS from h1"
+
+
+============================================================
+6. CONTROLLER MITIGATION
+============================================================
+
+
+# TERMINALE 1
+terminale> ryu-manager controller_mitigation.py
+
+# TERMINALE 2
+terminale> sudo python3 topology.py
+
+# verifica iniziale
+mininet> pingall
+
+
+# avvia i server su h3
+mininet> h3 iperf -s -p 5001 &
+mininet> h3 iperf -s -u -p 5002 &
+
+# avvia attacco DoS
+mininet> h1 iperf -c 10.0.0.3 -u -p 5002 -b 15M -t 40 &
+
+# attendere alcuni secondi per permettere detection e mitigation
+
+
+# verifica nel terminale Ryu:
+# - ALARM
+# - MITIGATION active h1 blocked ...
+
+# verifica direttamente la regola di drop su s1
+mininet> sh ovs-ofctl -O OpenFlow13 dump-flows s1
+
+# compare una flow entry con priorita 100 e actions=drop
+
+# misura le prestazioni di h2 mentre h1 continua a generare traffico
+mininet> h2 iperf -c 10.0.0.3 -p 5001 -t 10
+mininet> h2 ping -c 20 h3
+
+
+
+============================================================
+7. CONTROLLER DYNAMIC MITIGATION
+============================================================
+
+
+# TERMINALE 1
+terminale> ryu-manager controller_dynamic_mitigation.py
+
+# TERMINALE 2
+terminale> sudo python3 topology.py
+
+# verifica iniziale
+mininet> pingall
+
+
+# avvia il server UDP su h3
+mininet> h3 iperf -s -u -p 5002 &
+
+# ------------------------------------------------------------
+# 7A. TEST ATTACCO PERSISTENTE E BLOCCO
+# ------------------------------------------------------------
+
+# avvia un attacco abbastanza lungo da produrre almeno
+# 3 campioni consecutivi sopra soglia
+mininet> h1 iperf -c 10.0.0.3 -u -p 5002 -b 15M -t 20 &
+
+# attende il tempo necessario per i 3 campioni di monitoring
+mininet> sh sleep 11
+
+# nel terminale Ryu verificare:
+# h1 sopra soglia 1/3
+# h1 sopra soglia 2/3
+# h1 sopra soglia 3/3
+# ATTACK detected from h1
+# MITIGATION active h1 blocked
+
+# verifica la presenza della regola di drop
+mininet> sh ovs-ofctl -O OpenFlow13 dump-flows s1
+
+# ------------------------------------------------------------
+# 7B. TEST RECOVERY E SBLOCCO AUTOMATICO
+# ------------------------------------------------------------
+
+# l attacco termina automaticamente dopo 20 secondi
+# attende la fine dell attacco e almeno 3 campioni sotto soglia
+mininet> sh sleep 20
+
+# nel terminale Ryu verificare:
+# h1 sotto soglia 1/3
+# h1 sotto soglia 2/3
+# h1 sotto soglia 3/3
+# RECOVERY h1 unblocked
+
+# verifica che la regola di drop sia stata rimossa
+mininet> sh ovs-ofctl -O OpenFlow13 dump-flows s1
+
+# verifica che h1 raggiunge h3
+mininet> h1 ping -c 4 h3
+
+
+
+
