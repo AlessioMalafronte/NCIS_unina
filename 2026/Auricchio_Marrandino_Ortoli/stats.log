@@ -1,0 +1,1986 @@
+[Fri Sep 25 22:09:13 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 8253520, Tx Packets: 5673
+  Port: 3, Queue: 1, Tx Bytes: 36773338, Tx Packets: 24683
+[Fri Sep 25 22:09:23 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 10826750, Tx Packets: 7400
+  Port: 3, Queue: 1, Tx Bytes: 46684818, Tx Packets: 31335
+[Fri Sep 25 22:09:33 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 11594154, Tx Packets: 7928
+  Port: 3, Queue: 1, Tx Bytes: 48182268, Tx Packets: 32340
+[Fri Sep 25 22:12:03 2026] SECURITY ALERT: ARP Spoofing Detected! DPID: 1, Port: 2, Expected: 10.0.1.2/00:00:00:00:01:02, Got: 10.0.1.254/00:00:00:00:01:02
+[Fri Sep 25 22:12:04 2026] SECURITY ALERT: ARP Spoofing Detected! DPID: 1, Port: 2, Expected: 10.0.1.2/00:00:00:00:01:02, Got: 10.0.1.254/00:00:00:00:01:02
+[Fri Sep 25 22:12:05 2026] SECURITY ALERT: ARP Spoofing Detected! DPID: 1, Port: 2, Expected: 10.0.1.2/00:00:00:00:01:02, Got: 10.0.1.254/00:00:00:00:01:02
+[Fri Sep 25 22:12:06 2026] SECURITY ALERT: ARP Spoofing Detected! DPID: 1, Port: 2, Expected: 10.0.1.2/00:00:00:00:01:02, Got: 10.0.1.254/00:00:00:00:01:02
+[Fri Sep 25 22:12:07 2026] SECURITY ALERT: ARP Spoofing Detected! DPID: 1, Port: 2, Expected: 10.0.1.2/00:00:00:00:01:02, Got: 10.0.1.254/00:00:00:00:01:02
+[Fri Sep 25 22:12:08 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2858, Tx Packets: 22
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Fri Sep 25 22:12:18 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2858, Tx Packets: 22
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Fri Sep 25 22:12:28 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 3105, Tx Packets: 25
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Fri Sep 25 22:12:38 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 3105, Tx Packets: 25
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Fri Sep 25 22:12:48 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 3105, Tx Packets: 25
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Fri Sep 25 22:12:58 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 3105, Tx Packets: 25
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Fri Sep 25 22:13:08 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 3105, Tx Packets: 25
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Fri Sep 25 22:13:18 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 3105, Tx Packets: 25
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Fri Sep 25 22:13:28 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 3212, Tx Packets: 26
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Fri Sep 25 22:13:38 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 3352, Tx Packets: 28
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Fri Sep 25 22:13:48 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 3352, Tx Packets: 28
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Fri Sep 25 22:13:58 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 3352, Tx Packets: 28
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Fri Sep 25 22:14:08 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 3394, Tx Packets: 29
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Fri Sep 25 22:14:18 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 3394, Tx Packets: 29
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Fri Sep 25 22:14:28 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 3394, Tx Packets: 29
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Fri Sep 25 22:14:38 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 3394, Tx Packets: 29
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Fri Sep 25 22:14:48 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 3394, Tx Packets: 29
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Fri Sep 25 22:14:58 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 3394, Tx Packets: 29
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Fri Sep 25 22:15:08 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 3394, Tx Packets: 29
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Fri Sep 25 22:15:18 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 3394, Tx Packets: 29
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Fri Sep 25 22:15:28 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 3394, Tx Packets: 29
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Fri Sep 25 22:15:38 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 3501, Tx Packets: 30
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Fri Sep 25 22:15:48 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 3571, Tx Packets: 31
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Fri Sep 25 22:15:58 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 3641, Tx Packets: 32
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Fri Sep 25 22:16:08 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 3641, Tx Packets: 32
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Fri Sep 25 22:16:18 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 3641, Tx Packets: 32
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Fri Sep 25 22:16:28 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 3641, Tx Packets: 32
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Fri Sep 25 22:26:26 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 22:26:36 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 22:26:46 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 22:26:56 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 22:27:06 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 22:27:16 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 22:27:26 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 22:27:36 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 22:27:46 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 22:27:56 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 22:28:06 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 22:28:16 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 22:28:26 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 22:28:36 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 22:29:51 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 22:31:28 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 3463, Tx Packets: 32
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Fri Sep 25 22:34:58 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 416194, Tx Packets: 339
+  Port: 3, Queue: 1, Tx Bytes: 1582426, Tx Packets: 1063
+[Fri Sep 25 22:35:08 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2989783, Tx Packets: 2071
+  Port: 3, Queue: 1, Tx Bytes: 11505826, Tx Packets: 7723
+[Fri Sep 25 22:37:38 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 3815, Tx Packets: 35
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Fri Sep 25 22:39:08 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 22:42:09 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 1053331, Tx Packets: 760
+  Port: 3, Queue: 1, Tx Bytes: 4042416, Tx Packets: 2714
+[Fri Sep 25 22:42:19 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 3626878, Tx Packets: 2491
+  Port: 3, Queue: 1, Tx Bytes: 13964326, Tx Packets: 9373
+[Fri Sep 25 22:48:19 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 4391, Tx Packets: 40
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Fri Sep 25 22:48:29 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 22:48:39 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 22:48:49 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 22:48:59 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 22:49:09 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2516, Tx Packets: 20
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Fri Sep 25 22:49:19 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2541953, Tx Packets: 1761
+  Port: 3, Queue: 1, Tx Bytes: 9778916, Tx Packets: 6564
+[Fri Sep 25 22:52:09 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 352690, Tx Packets: 287
+  Port: 3, Queue: 1, Tx Bytes: 1336576, Tx Packets: 898
+[Fri Sep 25 22:52:19 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2581131, Tx Packets: 1805
+  Port: 3, Queue: 1, Tx Bytes: 10005396, Tx Packets: 6716
+[Fri Sep 25 22:52:49 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 160, Tx Packets: 2
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Fri Sep 25 22:52:59 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 22:53:09 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 22:53:19 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 22:53:30 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 176, Tx Packets: 2
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Fri Sep 25 22:53:39 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 1597423, Tx Packets: 1128
+  Port: 3, Queue: 1, Tx Bytes: 6132886, Tx Packets: 4117
+[Fri Sep 25 22:54:29 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 1408259, Tx Packets: 1002
+  Port: 3, Queue: 1, Tx Bytes: 5407256, Tx Packets: 3630
+[Fri Sep 25 22:54:35 2026] SECURITY ALERT: ARP Spoofing Detected! DPID: 1, Port: 2, Expected: 10.0.1.2/00:00:00:00:01:02, Got: 10.0.1.254/00:00:00:00:01:02
+[Fri Sep 25 22:54:36 2026] SECURITY ALERT: ARP Spoofing Detected! DPID: 1, Port: 2, Expected: 10.0.1.2/00:00:00:00:01:02, Got: 10.0.1.254/00:00:00:00:01:02
+[Fri Sep 25 22:54:37 2026] SECURITY ALERT: ARP Spoofing Detected! DPID: 1, Port: 2, Expected: 10.0.1.2/00:00:00:00:01:02, Got: 10.0.1.254/00:00:00:00:01:02
+[Fri Sep 25 22:54:38 2026] SECURITY ALERT: ARP Spoofing Detected! DPID: 1, Port: 2, Expected: 10.0.1.2/00:00:00:00:01:02, Got: 10.0.1.254/00:00:00:00:01:02
+[Fri Sep 25 22:54:39 2026] SECURITY ALERT: ARP Spoofing Detected! DPID: 1, Port: 2, Expected: 10.0.1.2/00:00:00:00:01:02, Got: 10.0.1.254/00:00:00:00:01:02
+[Fri Sep 25 22:54:39 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2581323, Tx Packets: 1807
+  Port: 3, Queue: 1, Tx Bytes: 10011356, Tx Packets: 6720
+[Fri Sep 25 22:54:49 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2581323, Tx Packets: 1807
+  Port: 3, Queue: 1, Tx Bytes: 10011356, Tx Packets: 6720
+[Fri Sep 25 23:01:29 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 351309, Tx Packets: 288
+  Port: 3, Queue: 1, Tx Bytes: 1338066, Tx Packets: 899
+[Fri Sep 25 23:01:39 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2924698, Tx Packets: 2046
+  Port: 3, Queue: 1, Tx Bytes: 10009866, Tx Packets: 6719
+[Fri Sep 25 23:01:49 2026] SECURITY ALERT: ARP Spoofing Detected! DPID: 1, Port: 2, Expected: 10.0.1.2/00:00:00:00:01:02, Got: 10.0.1.254/00:00:00:00:01:02
+[Fri Sep 25 23:01:49 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 5156104, Tx Packets: 3551
+  Port: 3, Queue: 1, Tx Bytes: 10009866, Tx Packets: 6719
+[Fri Sep 25 23:01:50 2026] SECURITY ALERT: ARP Spoofing Detected! DPID: 1, Port: 2, Expected: 10.0.1.2/00:00:00:00:01:02, Got: 10.0.1.254/00:00:00:00:01:02
+[Fri Sep 25 23:01:51 2026] SECURITY ALERT: ARP Spoofing Detected! DPID: 1, Port: 2, Expected: 10.0.1.2/00:00:00:00:01:02, Got: 10.0.1.254/00:00:00:00:01:02
+[Fri Sep 25 23:01:52 2026] SECURITY ALERT: ARP Spoofing Detected! DPID: 1, Port: 2, Expected: 10.0.1.2/00:00:00:00:01:02, Got: 10.0.1.254/00:00:00:00:01:02
+[Fri Sep 25 23:01:53 2026] SECURITY ALERT: ARP Spoofing Detected! DPID: 1, Port: 2, Expected: 10.0.1.2/00:00:00:00:01:02, Got: 10.0.1.254/00:00:00:00:01:02
+[Fri Sep 25 23:01:59 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 5156351, Tx Packets: 3554
+  Port: 3, Queue: 1, Tx Bytes: 10009866, Tx Packets: 6719
+[Fri Sep 25 23:04:20 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 255777, Tx Packets: 222
+  Port: 3, Queue: 1, Tx Bytes: 965566, Tx Packets: 649
+[Fri Sep 25 23:04:30 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2829168, Tx Packets: 1980
+  Port: 3, Queue: 1, Tx Bytes: 10009866, Tx Packets: 6719
+[Fri Sep 25 23:04:40 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 5402505, Tx Packets: 3708
+  Port: 3, Queue: 1, Tx Bytes: 10009866, Tx Packets: 6719
+[Fri Sep 25 23:04:44 2026] SECURITY ALERT: ARP Spoofing Detected! DPID: 1, Port: 2, Expected: 10.0.1.2/00:00:00:00:01:02, Got: 10.0.1.254/00:00:00:00:01:02
+[Fri Sep 25 23:04:45 2026] SECURITY ALERT: ARP Spoofing Detected! DPID: 1, Port: 2, Expected: 10.0.1.2/00:00:00:00:01:02, Got: 10.0.1.254/00:00:00:00:01:02
+[Fri Sep 25 23:04:46 2026] SECURITY ALERT: ARP Spoofing Detected! DPID: 1, Port: 2, Expected: 10.0.1.2/00:00:00:00:01:02, Got: 10.0.1.254/00:00:00:00:01:02
+[Fri Sep 25 23:04:47 2026] SECURITY ALERT: ARP Spoofing Detected! DPID: 1, Port: 2, Expected: 10.0.1.2/00:00:00:00:01:02, Got: 10.0.1.254/00:00:00:00:01:02
+[Fri Sep 25 23:04:48 2026] SECURITY ALERT: ARP Spoofing Detected! DPID: 1, Port: 2, Expected: 10.0.1.2/00:00:00:00:01:02, Got: 10.0.1.254/00:00:00:00:01:02
+[Fri Sep 25 23:04:50 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 6442053, Tx Packets: 4415
+  Port: 3, Queue: 1, Tx Bytes: 10009866, Tx Packets: 6719
+[Fri Sep 25 23:05:00 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 6442053, Tx Packets: 4415
+  Port: 3, Queue: 1, Tx Bytes: 10009866, Tx Packets: 6719
+[Fri Sep 25 23:05:10 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:05:20 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 1765417, Tx Packets: 1240
+  Port: 3, Queue: 1, Tx Bytes: 6784016, Tx Packets: 4554
+[Fri Sep 25 23:05:30 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 4339780, Tx Packets: 2993
+  Port: 3, Queue: 1, Tx Bytes: 10008376, Tx Packets: 6718
+[Fri Sep 25 23:05:38 2026] SECURITY ALERT: ARP Spoofing Detected! DPID: 1, Port: 2, Expected: 10.0.1.2/00:00:00:00:01:02, Got: 10.0.1.254/00:00:00:00:01:02
+[Fri Sep 25 23:05:39 2026] SECURITY ALERT: ARP Spoofing Detected! DPID: 1, Port: 2, Expected: 10.0.1.2/00:00:00:00:01:02, Got: 10.0.1.254/00:00:00:00:01:02
+[Fri Sep 25 23:05:40 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 6441450, Tx Packets: 4410
+  Port: 3, Queue: 1, Tx Bytes: 10008376, Tx Packets: 6718
+[Fri Sep 25 23:05:40 2026] SECURITY ALERT: ARP Spoofing Detected! DPID: 1, Port: 2, Expected: 10.0.1.2/00:00:00:00:01:02, Got: 10.0.1.254/00:00:00:00:01:02
+[Fri Sep 25 23:05:41 2026] SECURITY ALERT: ARP Spoofing Detected! DPID: 1, Port: 2, Expected: 10.0.1.2/00:00:00:00:01:02, Got: 10.0.1.254/00:00:00:00:01:02
+[Fri Sep 25 23:05:43 2026] SECURITY ALERT: ARP Spoofing Detected! DPID: 1, Port: 2, Expected: 10.0.1.2/00:00:00:00:01:02, Got: 10.0.1.254/00:00:00:00:01:02
+[Fri Sep 25 23:05:50 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 6441697, Tx Packets: 4413
+  Port: 3, Queue: 1, Tx Bytes: 10008376, Tx Packets: 6718
+[Fri Sep 25 23:06:00 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:06:10 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:06:20 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:06:30 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:06:40 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:06:50 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:07:00 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:07:10 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:07:20 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:07:30 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:07:40 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:07:50 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:08:00 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:08:10 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:08:20 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:08:30 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:08:40 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:08:50 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:09:00 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:09:10 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:09:20 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:09:30 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:09:40 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:09:50 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:10:00 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:10:10 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:10:20 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:10:30 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:10:40 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:10:50 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:11:00 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:11:10 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:11:20 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:11:30 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:11:40 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:11:50 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:12:00 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:12:10 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:12:20 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:12:30 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:12:40 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:12:50 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:13:00 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:13:10 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:13:20 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:13:30 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:13:40 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:13:50 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:14:00 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:14:10 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:14:20 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:14:30 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:14:40 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:14:50 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:15:00 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:15:10 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:15:20 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:15:30 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:15:40 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:15:50 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:16:00 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:16:10 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:16:20 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:16:30 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:16:40 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:16:50 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:17:00 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:17:10 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:17:20 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:17:30 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:17:40 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:17:50 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:18:00 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:18:10 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:18:20 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:18:30 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:18:40 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:18:50 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:19:00 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:19:10 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:19:20 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:19:30 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:19:40 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:19:50 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:20:00 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:20:10 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:20:20 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:20:30 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:20:40 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:20:50 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:21:00 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:21:10 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:21:20 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:21:30 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:21:40 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:21:50 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:22:00 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:22:10 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:22:20 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:22:30 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:22:40 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:22:50 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:23:00 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:23:10 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:23:20 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:23:30 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:23:40 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:23:50 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:24:00 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:24:10 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:24:20 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:24:30 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:24:40 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:24:50 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:25:00 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:25:10 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:25:20 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:25:30 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:25:40 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:25:50 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:26:00 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:26:10 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:26:20 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:26:30 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:26:40 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:26:50 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:27:00 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:27:10 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:27:20 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:27:30 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:27:40 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:27:50 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:28:00 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:28:10 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:28:20 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:28:30 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:28:40 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:28:50 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:29:00 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:29:10 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:29:20 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:29:30 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:29:40 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:29:50 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:30:00 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:30:10 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:30:20 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:30:30 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:30:40 2026] --- QoS Stats for Switch 1 ---
+[Fri Sep 25 23:46:38 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2516, Tx Packets: 20
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Fri Sep 25 23:46:48 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2446898, Tx Packets: 1701
+  Port: 3, Queue: 1, Tx Bytes: 9401946, Tx Packets: 6311
+[Fri Sep 25 23:46:58 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 5021332, Tx Packets: 3455
+  Port: 3, Queue: 1, Tx Bytes: 10008376, Tx Packets: 6718
+[Fri Sep 25 23:47:04 2026] SECURITY ALERT: ARP Spoofing Detected! DPID: 1, Port: 2, Expected: 10.0.1.2/00:00:00:00:01:02, Got: 10.0.1.254/00:00:00:00:01:02
+[Fri Sep 25 23:47:05 2026] SECURITY ALERT: ARP Spoofing Detected! DPID: 1, Port: 2, Expected: 10.0.1.2/00:00:00:00:01:02, Got: 10.0.1.254/00:00:00:00:01:02
+[Fri Sep 25 23:47:06 2026] SECURITY ALERT: ARP Spoofing Detected! DPID: 1, Port: 2, Expected: 10.0.1.2/00:00:00:00:01:02, Got: 10.0.1.254/00:00:00:00:01:02
+[Fri Sep 25 23:47:07 2026] SECURITY ALERT: ARP Spoofing Detected! DPID: 1, Port: 2, Expected: 10.0.1.2/00:00:00:00:01:02, Got: 10.0.1.254/00:00:00:00:01:02
+[Fri Sep 25 23:47:08 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 6442315, Tx Packets: 4418
+  Port: 3, Queue: 1, Tx Bytes: 10008376, Tx Packets: 6718
+[Fri Sep 25 23:47:08 2026] SECURITY ALERT: ARP Spoofing Detected! DPID: 1, Port: 2, Expected: 10.0.1.2/00:00:00:00:01:02, Got: 10.0.1.254/00:00:00:00:01:02
+[Fri Sep 25 23:47:18 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 6442315, Tx Packets: 4418
+  Port: 3, Queue: 1, Tx Bytes: 10008376, Tx Packets: 6718
+[Fri Sep 25 23:49:58 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 1785, Tx Packets: 15
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Fri Sep 25 23:50:08 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 3078, Tx Packets: 25
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Fri Sep 25 23:50:18 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 3395, Tx Packets: 29
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Fri Sep 25 23:50:28 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 3605, Tx Packets: 32
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Fri Sep 25 23:50:38 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 3712, Tx Packets: 33
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Fri Sep 25 23:50:48 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 3712, Tx Packets: 33
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Sat Sep 26 09:13:32 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 357, Tx Packets: 4
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Sat Sep 26 09:13:42 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 1758214, Tx Packets: 1235
+  Port: 3, Queue: 1, Tx Bytes: 6691636, Tx Packets: 4492
+[Sat Sep 26 09:13:52 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 4329592, Tx Packets: 2986
+  Port: 3, Queue: 1, Tx Bytes: 9837026, Tx Packets: 6603
+[Sat Sep 26 09:14:01 2026] SECURITY ALERT: ARP Spoofing Detected! DPID: 1, Port: 2, Expected: 10.0.1.2/00:00:00:00:01:02, Got: 10.0.1.254/00:00:00:00:01:02
+[Sat Sep 26 09:14:02 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 6443457, Tx Packets: 4415
+  Port: 3, Queue: 1, Tx Bytes: 9837026, Tx Packets: 6603
+[Sat Sep 26 09:14:02 2026] SECURITY ALERT: ARP Spoofing Detected! DPID: 1, Port: 2, Expected: 10.0.1.2/00:00:00:00:01:02, Got: 10.0.1.254/00:00:00:00:01:02
+[Sat Sep 26 09:14:03 2026] SECURITY ALERT: ARP Spoofing Detected! DPID: 1, Port: 2, Expected: 10.0.1.2/00:00:00:00:01:02, Got: 10.0.1.254/00:00:00:00:01:02
+[Sat Sep 26 09:14:04 2026] SECURITY ALERT: ARP Spoofing Detected! DPID: 1, Port: 2, Expected: 10.0.1.2/00:00:00:00:01:02, Got: 10.0.1.254/00:00:00:00:01:02
+[Sat Sep 26 09:14:05 2026] SECURITY ALERT: ARP Spoofing Detected! DPID: 1, Port: 2, Expected: 10.0.1.2/00:00:00:00:01:02, Got: 10.0.1.254/00:00:00:00:01:02
+[Sat Sep 26 09:14:12 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 6443564, Tx Packets: 4416
+  Port: 3, Queue: 1, Tx Bytes: 9837026, Tx Packets: 6603
+[Sat Sep 26 09:33:46 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 793, Tx Packets: 7
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Sat Sep 26 09:33:56 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 1862780, Tx Packets: 1308
+  Port: 3, Queue: 1, Tx Bytes: 7159496, Tx Packets: 4806
+[Sat Sep 26 09:34:06 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 4435651, Tx Packets: 3060
+  Port: 3, Queue: 1, Tx Bytes: 9817656, Tx Packets: 6590
+[Sat Sep 26 09:34:16 2026] SECURITY ALERT: ARP Spoofing Detected! DPID: 1, Port: 2, Expected: 10.0.1.2/00:00:00:00:01:02, Got: 10.0.1.254/00:00:00:00:01:02
+[Sat Sep 26 09:34:16 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 6442096, Tx Packets: 4415
+  Port: 3, Queue: 1, Tx Bytes: 9817656, Tx Packets: 6590
+[Sat Sep 26 09:34:17 2026] SECURITY ALERT: ARP Spoofing Detected! DPID: 1, Port: 2, Expected: 10.0.1.2/00:00:00:00:01:02, Got: 10.0.1.254/00:00:00:00:01:02
+[Sat Sep 26 09:34:18 2026] SECURITY ALERT: ARP Spoofing Detected! DPID: 1, Port: 2, Expected: 10.0.1.2/00:00:00:00:01:02, Got: 10.0.1.254/00:00:00:00:01:02
+[Sat Sep 26 09:34:19 2026] SECURITY ALERT: ARP Spoofing Detected! DPID: 1, Port: 2, Expected: 10.0.1.2/00:00:00:00:01:02, Got: 10.0.1.254/00:00:00:00:01:02
+[Sat Sep 26 09:34:20 2026] SECURITY ALERT: ARP Spoofing Detected! DPID: 1, Port: 2, Expected: 10.0.1.2/00:00:00:00:01:02, Got: 10.0.1.254/00:00:00:00:01:02
+[Sat Sep 26 09:34:26 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 6442273, Tx Packets: 4417
+  Port: 3, Queue: 1, Tx Bytes: 9817656, Tx Packets: 6590
+[Wed Sep 30 22:15:45 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 3106, Tx Packets: 25
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Wed Sep 30 22:15:55 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 3106, Tx Packets: 25
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Wed Sep 30 22:16:05 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 3106, Tx Packets: 25
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Wed Sep 30 22:16:15 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 3729, Tx Packets: 34
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Wed Sep 30 22:16:25 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 4564, Tx Packets: 44
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Wed Sep 30 22:16:35 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 4671, Tx Packets: 45
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Wed Sep 30 22:16:45 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 4988, Tx Packets: 49
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Wed Sep 30 22:16:55 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 4988, Tx Packets: 49
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Wed Sep 30 22:17:05 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 4988, Tx Packets: 49
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Wed Sep 30 22:17:15 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 5235, Tx Packets: 52
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Wed Sep 30 22:17:25 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 5305, Tx Packets: 53
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Wed Sep 30 22:17:35 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 5305, Tx Packets: 53
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Wed Sep 30 22:17:45 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 5305, Tx Packets: 53
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Wed Sep 30 22:17:55 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 5305, Tx Packets: 53
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Wed Sep 30 22:18:31 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 1651039, Tx Packets: 1164
+  Port: 3, Queue: 1, Tx Bytes: 6271456, Tx Packets: 4210
+[Wed Sep 30 22:18:36 2026] SECURITY ALERT: ARP Spoofing Detected! DPID: 1, Port: 2, Expected: 10.0.1.2/00:00:00:00:01:02, Got: 10.0.1.254/00:00:00:00:01:02
+[Wed Sep 30 22:18:37 2026] SECURITY ALERT: ARP Spoofing Detected! DPID: 1, Port: 2, Expected: 10.0.1.2/00:00:00:00:01:02, Got: 10.0.1.254/00:00:00:00:01:02
+[Wed Sep 30 22:18:38 2026] SECURITY ALERT: ARP Spoofing Detected! DPID: 1, Port: 2, Expected: 10.0.1.2/00:00:00:00:01:02, Got: 10.0.1.254/00:00:00:00:01:02
+[Wed Sep 30 22:18:39 2026] SECURITY ALERT: ARP Spoofing Detected! DPID: 1, Port: 2, Expected: 10.0.1.2/00:00:00:00:01:02, Got: 10.0.1.254/00:00:00:00:01:02
+[Wed Sep 30 22:18:40 2026] SECURITY ALERT: ARP Spoofing Detected! DPID: 1, Port: 2, Expected: 10.0.1.2/00:00:00:00:01:02, Got: 10.0.1.254/00:00:00:00:01:02
+[Wed Sep 30 22:18:41 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2581229, Tx Packets: 1806
+  Port: 3, Queue: 1, Tx Bytes: 9868316, Tx Packets: 6624
+[Wed Sep 30 22:18:51 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2581369, Tx Packets: 1808
+  Port: 3, Queue: 1, Tx Bytes: 9868316, Tx Packets: 6624
+[Wed Sep 30 23:17:28 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 3967, Tx Packets: 35
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Wed Sep 30 23:17:38 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 4298, Tx Packets: 40
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Wed Sep 30 23:17:48 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 4298, Tx Packets: 40
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Wed Sep 30 23:17:58 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 4298, Tx Packets: 40
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Wed Sep 30 23:18:08 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 4615, Tx Packets: 44
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Wed Sep 30 23:18:18 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 4615, Tx Packets: 44
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Wed Sep 30 23:18:28 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 4615, Tx Packets: 44
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Wed Sep 30 23:18:38 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 4615, Tx Packets: 44
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Wed Sep 30 23:18:48 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 4615, Tx Packets: 44
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Wed Sep 30 23:18:58 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 4615, Tx Packets: 44
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Wed Sep 30 23:19:08 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 4792, Tx Packets: 46
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Wed Sep 30 23:19:18 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 4792, Tx Packets: 46
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Wed Sep 30 23:19:28 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 4932, Tx Packets: 48
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Wed Sep 30 23:19:38 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 4932, Tx Packets: 48
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Wed Sep 30 23:19:48 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 4932, Tx Packets: 48
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Wed Sep 30 23:19:58 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 4932, Tx Packets: 48
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Wed Sep 30 23:20:08 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 4932, Tx Packets: 48
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Wed Sep 30 23:20:18 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 4932, Tx Packets: 48
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Wed Sep 30 23:20:28 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 4932, Tx Packets: 48
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Wed Sep 30 23:20:38 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 4932, Tx Packets: 48
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Wed Sep 30 23:20:48 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 4932, Tx Packets: 48
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Wed Sep 30 23:20:58 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 4932, Tx Packets: 48
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Wed Sep 30 23:21:08 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 4932, Tx Packets: 48
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Wed Sep 30 23:21:18 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 5039, Tx Packets: 49
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Wed Sep 30 23:21:28 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 5109, Tx Packets: 50
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Wed Sep 30 23:21:38 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 5109, Tx Packets: 50
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Wed Sep 30 23:21:48 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 55772, Tx Packets: 100
+  Port: 3, Queue: 1, Tx Bytes: 186296, Tx Packets: 126
+[Wed Sep 30 23:21:58 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2581439, Tx Packets: 1810
+  Port: 3, Queue: 1, Tx Bytes: 9941326, Tx Packets: 6673
+[Wed Sep 30 23:21:58 2026] SECURITY ALERT: ARP Spoofing Detected! DPID: 1, Port: 2, Expected: 10.0.1.2/00:00:00:00:01:02, Got: 10.0.1.254/00:00:00:00:01:02
+[Wed Sep 30 23:21:59 2026] SECURITY ALERT: ARP Spoofing Detected! DPID: 1, Port: 2, Expected: 10.0.1.2/00:00:00:00:01:02, Got: 10.0.1.254/00:00:00:00:01:02
+[Wed Sep 30 23:22:00 2026] SECURITY ALERT: ARP Spoofing Detected! DPID: 1, Port: 2, Expected: 10.0.1.2/00:00:00:00:01:02, Got: 10.0.1.254/00:00:00:00:01:02
+[Wed Sep 30 23:22:01 2026] SECURITY ALERT: ARP Spoofing Detected! DPID: 1, Port: 2, Expected: 10.0.1.2/00:00:00:00:01:02, Got: 10.0.1.254/00:00:00:00:01:02
+[Wed Sep 30 23:22:02 2026] SECURITY ALERT: ARP Spoofing Detected! DPID: 1, Port: 2, Expected: 10.0.1.2/00:00:00:00:01:02, Got: 10.0.1.254/00:00:00:00:01:02
+[Wed Sep 30 23:22:08 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2581439, Tx Packets: 1810
+  Port: 3, Queue: 1, Tx Bytes: 9941326, Tx Packets: 6673
+[Wed Sep 30 23:22:18 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2581439, Tx Packets: 1810
+  Port: 3, Queue: 1, Tx Bytes: 9941326, Tx Packets: 6673
+[Wed Sep 30 23:22:28 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2581439, Tx Packets: 1810
+  Port: 3, Queue: 1, Tx Bytes: 9941326, Tx Packets: 6673
+[Wed Sep 30 23:22:38 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 5069686, Tx Packets: 3496
+  Port: 3, Queue: 1, Tx Bytes: 19533992, Tx Packets: 13112
+[Wed Sep 30 23:22:39 2026] SECURITY ALERT: ARP Spoofing Detected! DPID: 1, Port: 2, Expected: 10.0.1.2/00:00:00:00:01:02, Got: 10.0.1.254/00:00:00:00:01:02
+[Wed Sep 30 23:22:40 2026] SECURITY ALERT: ARP Spoofing Detected! DPID: 1, Port: 2, Expected: 10.0.1.2/00:00:00:00:01:02, Got: 10.0.1.254/00:00:00:00:01:02
+[Wed Sep 30 23:22:41 2026] SECURITY ALERT: ARP Spoofing Detected! DPID: 1, Port: 2, Expected: 10.0.1.2/00:00:00:00:01:02, Got: 10.0.1.254/00:00:00:00:01:02
+[Wed Sep 30 23:22:42 2026] SECURITY ALERT: ARP Spoofing Detected! DPID: 1, Port: 2, Expected: 10.0.1.2/00:00:00:00:01:02, Got: 10.0.1.254/00:00:00:00:01:02
+[Wed Sep 30 23:22:43 2026] SECURITY ALERT: ARP Spoofing Detected! DPID: 1, Port: 2, Expected: 10.0.1.2/00:00:00:00:01:02, Got: 10.0.1.254/00:00:00:00:01:02
+[Wed Sep 30 23:22:48 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 5157642, Tx Packets: 3568
+  Port: 3, Queue: 1, Tx Bytes: 19881162, Tx Packets: 13345
+[Wed Sep 30 23:22:58 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 5157642, Tx Packets: 3568
+  Port: 3, Queue: 1, Tx Bytes: 19881162, Tx Packets: 13345
+[Wed Sep 30 23:23:08 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 5157642, Tx Packets: 3568
+  Port: 3, Queue: 1, Tx Bytes: 19881162, Tx Packets: 13345
+[Wed Sep 30 23:23:18 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 5157642, Tx Packets: 3568
+  Port: 3, Queue: 1, Tx Bytes: 19881162, Tx Packets: 13345
+[Wed Sep 30 23:23:28 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 5157642, Tx Packets: 3568
+  Port: 3, Queue: 1, Tx Bytes: 19881162, Tx Packets: 13345
+[Wed Sep 30 23:23:38 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 5157642, Tx Packets: 3568
+  Port: 3, Queue: 1, Tx Bytes: 19881162, Tx Packets: 13345
+[Wed Sep 30 23:23:48 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 7455169, Tx Packets: 5126
+  Port: 3, Queue: 1, Tx Bytes: 28736278, Tx Packets: 19289
+[Wed Sep 30 23:23:49 2026] SECURITY ALERT: ARP Spoofing Detected! DPID: 1, Port: 2, Expected: 10.0.1.2/00:00:00:00:01:02, Got: 10.0.1.254/00:00:00:00:01:02
+[Wed Sep 30 23:23:50 2026] SECURITY ALERT: ARP Spoofing Detected! DPID: 1, Port: 2, Expected: 10.0.1.2/00:00:00:00:01:02, Got: 10.0.1.254/00:00:00:00:01:02
+[Wed Sep 30 23:23:51 2026] SECURITY ALERT: ARP Spoofing Detected! DPID: 1, Port: 2, Expected: 10.0.1.2/00:00:00:00:01:02, Got: 10.0.1.254/00:00:00:00:01:02
+[Wed Sep 30 23:23:53 2026] SECURITY ALERT: ARP Spoofing Detected! DPID: 1, Port: 2, Expected: 10.0.1.2/00:00:00:00:01:02, Got: 10.0.1.254/00:00:00:00:01:02
+[Wed Sep 30 23:23:54 2026] SECURITY ALERT: ARP Spoofing Detected! DPID: 1, Port: 2, Expected: 10.0.1.2/00:00:00:00:01:02, Got: 10.0.1.254/00:00:00:00:01:02
+[Wed Sep 30 23:23:58 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 7733851, Tx Packets: 5326
+  Port: 3, Queue: 1, Tx Bytes: 29820998, Tx Packets: 20017
+[Wed Sep 30 23:24:08 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 7733851, Tx Packets: 5326
+  Port: 3, Queue: 1, Tx Bytes: 29820998, Tx Packets: 20017
+[Wed Sep 30 23:24:18 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 7733851, Tx Packets: 5326
+  Port: 3, Queue: 1, Tx Bytes: 29820998, Tx Packets: 20017
+[Wed Sep 30 23:24:28 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 7733851, Tx Packets: 5326
+  Port: 3, Queue: 1, Tx Bytes: 29820998, Tx Packets: 20017
+[Wed Sep 30 23:24:38 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 7733851, Tx Packets: 5326
+  Port: 3, Queue: 1, Tx Bytes: 29820998, Tx Packets: 20017
+[Wed Sep 30 23:24:48 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 7733851, Tx Packets: 5326
+  Port: 3, Queue: 1, Tx Bytes: 29820998, Tx Packets: 20017
+[Wed Sep 30 23:24:58 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 7733851, Tx Packets: 5326
+  Port: 3, Queue: 1, Tx Bytes: 29820998, Tx Packets: 20017
+[Wed Sep 30 23:25:08 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 7733851, Tx Packets: 5326
+  Port: 3, Queue: 1, Tx Bytes: 29820998, Tx Packets: 20017
+[Wed Sep 30 23:25:18 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 7733851, Tx Packets: 5326
+  Port: 3, Queue: 1, Tx Bytes: 29820998, Tx Packets: 20017
+[Wed Sep 30 23:25:28 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 7733851, Tx Packets: 5326
+  Port: 3, Queue: 1, Tx Bytes: 29820998, Tx Packets: 20017
+[Wed Sep 30 23:25:38 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 9717095, Tx Packets: 6674
+  Port: 3, Queue: 1, Tx Bytes: 37464744, Tx Packets: 25148
+[Wed Sep 30 23:25:41 2026] SECURITY ALERT: ARP Spoofing Detected! DPID: 1, Port: 2, Expected: 10.0.1.2/00:00:00:00:01:02, Got: 10.0.1.254/00:00:00:00:01:02
+[Wed Sep 30 23:25:42 2026] SECURITY ALERT: ARP Spoofing Detected! DPID: 1, Port: 2, Expected: 10.0.1.2/00:00:00:00:01:02, Got: 10.0.1.254/00:00:00:00:01:02
+[Wed Sep 30 23:25:43 2026] SECURITY ALERT: ARP Spoofing Detected! DPID: 1, Port: 2, Expected: 10.0.1.2/00:00:00:00:01:02, Got: 10.0.1.254/00:00:00:00:01:02
+[Wed Sep 30 23:25:44 2026] SECURITY ALERT: ARP Spoofing Detected! DPID: 1, Port: 2, Expected: 10.0.1.2/00:00:00:00:01:02, Got: 10.0.1.254/00:00:00:00:01:02
+[Wed Sep 30 23:25:45 2026] SECURITY ALERT: ARP Spoofing Detected! DPID: 1, Port: 2, Expected: 10.0.1.2/00:00:00:00:01:02, Got: 10.0.1.254/00:00:00:00:01:02
+[Wed Sep 30 23:25:48 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 10310165, Tx Packets: 7085
+  Port: 3, Queue: 1, Tx Bytes: 39762324, Tx Packets: 26690
+[Wed Sep 30 23:25:58 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 10310165, Tx Packets: 7085
+  Port: 3, Queue: 1, Tx Bytes: 39762324, Tx Packets: 26690
+[Wed Sep 30 23:26:08 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 10310165, Tx Packets: 7085
+  Port: 3, Queue: 1, Tx Bytes: 39762324, Tx Packets: 26690
+[Wed Sep 30 23:26:18 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 10310165, Tx Packets: 7085
+  Port: 3, Queue: 1, Tx Bytes: 39762324, Tx Packets: 26690
+[Wed Sep 30 23:26:28 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 10310235, Tx Packets: 7086
+  Port: 3, Queue: 1, Tx Bytes: 39762324, Tx Packets: 26690
+[Wed Sep 30 23:26:38 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 10310235, Tx Packets: 7086
+  Port: 3, Queue: 1, Tx Bytes: 39762324, Tx Packets: 26690
+[Sun Oct  4 10:19:01 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 1514901, Tx Packets: 1051
+  Port: 3, Queue: 1, Tx Bytes: 5822966, Tx Packets: 3909
+[Sun Oct  4 10:19:06 2026] SECURITY ALERT: ARP Spoofing Detected! DPID: 1, Port: 2, Expected: 10.0.1.2/00:00:00:00:01:02, Got: 10.0.1.254/00:00:00:00:01:02
+[Sun Oct  4 10:19:07 2026] SECURITY ALERT: ARP Spoofing Detected! DPID: 1, Port: 2, Expected: 10.0.1.2/00:00:00:00:01:02, Got: 10.0.1.254/00:00:00:00:01:02
+[Sun Oct  4 10:19:08 2026] SECURITY ALERT: ARP Spoofing Detected! DPID: 1, Port: 2, Expected: 10.0.1.2/00:00:00:00:01:02, Got: 10.0.1.254/00:00:00:00:01:02
+[Sun Oct  4 10:19:09 2026] SECURITY ALERT: ARP Spoofing Detected! DPID: 1, Port: 2, Expected: 10.0.1.2/00:00:00:00:01:02, Got: 10.0.1.254/00:00:00:00:01:02
+[Sun Oct  4 10:19:10 2026] SECURITY ALERT: ARP Spoofing Detected! DPID: 1, Port: 2, Expected: 10.0.1.2/00:00:00:00:01:02, Got: 10.0.1.254/00:00:00:00:01:02
+[Sun Oct  4 10:19:11 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2578987, Tx Packets: 1780
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:19:21 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2579276, Tx Packets: 1784
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:19:31 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2579276, Tx Packets: 1784
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:19:41 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2579276, Tx Packets: 1784
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:19:51 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2579383, Tx Packets: 1785
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:20:01 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2579523, Tx Packets: 1787
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:20:11 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2579523, Tx Packets: 1787
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:20:21 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2579523, Tx Packets: 1787
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:20:31 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2579523, Tx Packets: 1787
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:20:41 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2579523, Tx Packets: 1787
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:20:51 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2579523, Tx Packets: 1787
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:21:01 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2579630, Tx Packets: 1788
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:21:11 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2579770, Tx Packets: 1790
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:21:21 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2579770, Tx Packets: 1790
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:21:31 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2579770, Tx Packets: 1790
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:21:41 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2579770, Tx Packets: 1790
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:21:51 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2579770, Tx Packets: 1790
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:22:01 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2579770, Tx Packets: 1790
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:22:11 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2579770, Tx Packets: 1790
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:22:21 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2579770, Tx Packets: 1790
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:22:31 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2579770, Tx Packets: 1790
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:22:41 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2579770, Tx Packets: 1790
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:22:51 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2579770, Tx Packets: 1790
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:23:01 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2579770, Tx Packets: 1790
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:23:11 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2579877, Tx Packets: 1791
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:23:21 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2579947, Tx Packets: 1792
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:23:31 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580017, Tx Packets: 1793
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:23:41 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580017, Tx Packets: 1793
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:23:51 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580017, Tx Packets: 1793
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:24:01 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580017, Tx Packets: 1793
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:24:11 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580017, Tx Packets: 1793
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:24:21 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580017, Tx Packets: 1793
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:24:31 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580017, Tx Packets: 1793
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:24:41 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580017, Tx Packets: 1793
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:24:51 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580017, Tx Packets: 1793
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:25:01 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580017, Tx Packets: 1793
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:25:11 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580017, Tx Packets: 1793
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:25:21 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580017, Tx Packets: 1793
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:25:31 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580017, Tx Packets: 1793
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:25:41 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580017, Tx Packets: 1793
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:25:51 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580017, Tx Packets: 1793
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:26:01 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580017, Tx Packets: 1793
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:26:11 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580017, Tx Packets: 1793
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:26:21 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580017, Tx Packets: 1793
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:26:31 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580017, Tx Packets: 1793
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:26:41 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580017, Tx Packets: 1793
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:26:51 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580017, Tx Packets: 1793
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:27:01 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580017, Tx Packets: 1793
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:27:11 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580017, Tx Packets: 1793
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:27:21 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580124, Tx Packets: 1794
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:27:31 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580124, Tx Packets: 1794
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:27:41 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580124, Tx Packets: 1794
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:27:51 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580124, Tx Packets: 1794
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:28:01 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580194, Tx Packets: 1795
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:28:11 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580194, Tx Packets: 1795
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:28:21 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580194, Tx Packets: 1795
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:28:31 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580264, Tx Packets: 1796
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:28:41 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580264, Tx Packets: 1796
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:28:51 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580264, Tx Packets: 1796
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:29:01 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580264, Tx Packets: 1796
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:29:11 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580264, Tx Packets: 1796
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:29:21 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580264, Tx Packets: 1796
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:29:31 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580264, Tx Packets: 1796
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:29:41 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580264, Tx Packets: 1796
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:29:51 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580264, Tx Packets: 1796
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:30:01 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580264, Tx Packets: 1796
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:30:11 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580264, Tx Packets: 1796
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:30:21 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580264, Tx Packets: 1796
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:30:31 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580264, Tx Packets: 1796
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:30:41 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580264, Tx Packets: 1796
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:30:51 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580264, Tx Packets: 1796
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:31:01 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580264, Tx Packets: 1796
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:31:11 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580264, Tx Packets: 1796
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:31:21 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580264, Tx Packets: 1796
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:31:31 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580264, Tx Packets: 1796
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:31:41 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580264, Tx Packets: 1796
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:31:51 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580264, Tx Packets: 1796
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:32:01 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580264, Tx Packets: 1796
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:32:11 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580264, Tx Packets: 1796
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:32:21 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580264, Tx Packets: 1796
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:32:31 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580264, Tx Packets: 1796
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:32:41 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580264, Tx Packets: 1796
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:32:51 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580264, Tx Packets: 1796
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:33:01 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580264, Tx Packets: 1796
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:33:11 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580264, Tx Packets: 1796
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:33:21 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580264, Tx Packets: 1796
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:33:31 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580264, Tx Packets: 1796
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:33:41 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580264, Tx Packets: 1796
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:33:51 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580264, Tx Packets: 1796
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:34:01 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580264, Tx Packets: 1796
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:34:11 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580264, Tx Packets: 1796
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:34:21 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580264, Tx Packets: 1796
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:34:31 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580264, Tx Packets: 1796
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:34:41 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580264, Tx Packets: 1796
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:34:51 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580264, Tx Packets: 1796
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:35:01 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580264, Tx Packets: 1796
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:35:11 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580264, Tx Packets: 1796
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:35:21 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580264, Tx Packets: 1796
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:35:31 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580264, Tx Packets: 1796
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:35:41 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580264, Tx Packets: 1796
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:35:51 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580371, Tx Packets: 1797
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:36:01 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580371, Tx Packets: 1797
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:36:11 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580371, Tx Packets: 1797
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:36:21 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580371, Tx Packets: 1797
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:36:31 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580371, Tx Packets: 1797
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:36:41 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580371, Tx Packets: 1797
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:36:51 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580371, Tx Packets: 1797
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:37:01 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580371, Tx Packets: 1797
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:37:11 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580371, Tx Packets: 1797
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:37:21 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580441, Tx Packets: 1798
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:37:31 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580441, Tx Packets: 1798
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:37:41 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580441, Tx Packets: 1798
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:37:51 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580441, Tx Packets: 1798
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:38:01 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580441, Tx Packets: 1798
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:38:11 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580441, Tx Packets: 1798
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:38:21 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580511, Tx Packets: 1799
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:38:31 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580511, Tx Packets: 1799
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:38:41 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580511, Tx Packets: 1799
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:38:51 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580511, Tx Packets: 1799
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:39:01 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580511, Tx Packets: 1799
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:39:11 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580511, Tx Packets: 1799
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:39:21 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580511, Tx Packets: 1799
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:39:31 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580511, Tx Packets: 1799
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:39:41 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580511, Tx Packets: 1799
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:39:51 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580511, Tx Packets: 1799
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:40:01 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580511, Tx Packets: 1799
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:40:11 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580511, Tx Packets: 1799
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:40:21 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580511, Tx Packets: 1799
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:40:31 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580511, Tx Packets: 1799
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:40:41 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2580511, Tx Packets: 1799
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:40:51 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2581051, Tx Packets: 1802
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:41:01 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2581231, Tx Packets: 1803
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:41:11 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585047, Tx Packets: 1810
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:41:21 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585227, Tx Packets: 1811
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:41:31 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585227, Tx Packets: 1811
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:41:41 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585227, Tx Packets: 1811
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:41:51 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585407, Tx Packets: 1812
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:42:01 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585407, Tx Packets: 1812
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:42:11 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585407, Tx Packets: 1812
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:42:21 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585407, Tx Packets: 1812
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:42:31 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585407, Tx Packets: 1812
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:42:41 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585407, Tx Packets: 1812
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:42:51 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585407, Tx Packets: 1812
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:43:01 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585587, Tx Packets: 1813
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:43:11 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585587, Tx Packets: 1813
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:43:21 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585587, Tx Packets: 1813
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:43:31 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585587, Tx Packets: 1813
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 10:43:41 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585587, Tx Packets: 1813
+  Port: 3, Queue: 1, Tx Bytes: 9847456, Tx Packets: 6610
+[Sun Oct  4 11:10:56 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 6571, Tx Packets: 23
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Sun Oct  4 11:11:06 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 7026, Tx Packets: 28
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Sun Oct  4 11:11:16 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 7026, Tx Packets: 28
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Sun Oct  4 11:11:26 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 208081, Tx Packets: 178
+  Port: 3, Queue: 1, Tx Bytes: 770376, Tx Packets: 518
+[Sun Oct  4 11:11:36 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2583305, Tx Packets: 1787
+  Port: 3, Queue: 1, Tx Bytes: 9939836, Tx Packets: 6672
+[Sun Oct  4 11:11:46 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2583648, Tx Packets: 1790
+  Port: 3, Queue: 1, Tx Bytes: 9939836, Tx Packets: 6672
+[Sun Oct  4 11:11:56 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2583648, Tx Packets: 1790
+  Port: 3, Queue: 1, Tx Bytes: 9939836, Tx Packets: 6672
+[Sun Oct  4 11:12:06 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 3581943, Tx Packets: 2476
+  Port: 3, Queue: 1, Tx Bytes: 13778122, Tx Packets: 9249
+[Sun Oct  4 11:12:16 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 5160078, Tx Packets: 3551
+  Port: 3, Queue: 1, Tx Bytes: 19869242, Tx Packets: 13337
+[Sun Oct  4 11:12:26 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 5160148, Tx Packets: 3552
+  Port: 3, Queue: 1, Tx Bytes: 19869242, Tx Packets: 13337
+[Sun Oct  4 11:12:36 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 5160148, Tx Packets: 3552
+  Port: 3, Queue: 1, Tx Bytes: 19869242, Tx Packets: 13337
+[Sun Oct  4 11:12:46 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 5160351, Tx Packets: 3553
+  Port: 3, Queue: 1, Tx Bytes: 19869242, Tx Packets: 13337
+[Sun Oct  4 11:12:56 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 5160491, Tx Packets: 3555
+  Port: 3, Queue: 1, Tx Bytes: 19869242, Tx Packets: 13337
+[Sun Oct  4 11:13:06 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 5160491, Tx Packets: 3555
+  Port: 3, Queue: 1, Tx Bytes: 19869242, Tx Packets: 13337
+[Sun Oct  4 11:13:16 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 5160491, Tx Packets: 3555
+  Port: 3, Queue: 1, Tx Bytes: 19869242, Tx Packets: 13337
+[Sun Oct  4 11:13:26 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 5160491, Tx Packets: 3555
+  Port: 3, Queue: 1, Tx Bytes: 19869242, Tx Packets: 13337
+[Sun Oct  4 11:13:36 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 5160491, Tx Packets: 3555
+  Port: 3, Queue: 1, Tx Bytes: 19869242, Tx Packets: 13337
+[Sun Oct  4 11:13:46 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 7441628, Tx Packets: 5102
+  Port: 3, Queue: 1, Tx Bytes: 28661778, Tx Packets: 19239
+[Sun Oct  4 11:13:56 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 7736697, Tx Packets: 5313
+  Port: 3, Queue: 1, Tx Bytes: 29810568, Tx Packets: 20010
+[Sun Oct  4 11:38:05 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 6851, Tx Packets: 27
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Sun Oct  4 11:38:15 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 6851, Tx Packets: 27
+  Port: 3, Queue: 1, Tx Bytes: 0, Tx Packets: 0
+[Sun Oct  4 11:38:25 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2020201, Tx Packets: 1398
+  Port: 3, Queue: 1, Tx Bytes: 7758476, Tx Packets: 5208
+[Sun Oct  4 11:38:35 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2583448, Tx Packets: 1789
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:38:45 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2583448, Tx Packets: 1789
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:38:55 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2583861, Tx Packets: 1793
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:39:05 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2583861, Tx Packets: 1793
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:39:15 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2583861, Tx Packets: 1793
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:39:25 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2583861, Tx Packets: 1793
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:39:35 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2583861, Tx Packets: 1793
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:39:45 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2583861, Tx Packets: 1793
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:39:55 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2584071, Tx Packets: 1796
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:40:05 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2584274, Tx Packets: 1797
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:40:15 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2584274, Tx Packets: 1797
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:40:25 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2584274, Tx Packets: 1797
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:40:35 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2584274, Tx Packets: 1797
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:40:45 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2584274, Tx Packets: 1797
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:40:55 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2584274, Tx Packets: 1797
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:41:05 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2584274, Tx Packets: 1797
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:41:15 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2584274, Tx Packets: 1797
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:41:25 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2584274, Tx Packets: 1797
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:41:35 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2584274, Tx Packets: 1797
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:41:45 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2584344, Tx Packets: 1798
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:41:55 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2584414, Tx Packets: 1799
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:42:05 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2584687, Tx Packets: 1801
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:42:15 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2584687, Tx Packets: 1801
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:42:25 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2584687, Tx Packets: 1801
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:42:35 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2584687, Tx Packets: 1801
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:42:45 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2584687, Tx Packets: 1801
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:42:55 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2584687, Tx Packets: 1801
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:43:05 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2584687, Tx Packets: 1801
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:43:15 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2584687, Tx Packets: 1801
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:43:25 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2584687, Tx Packets: 1801
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:43:35 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2584687, Tx Packets: 1801
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:43:45 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2584687, Tx Packets: 1801
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:43:55 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2584687, Tx Packets: 1801
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:44:05 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2584687, Tx Packets: 1801
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:44:15 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2584687, Tx Packets: 1801
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:44:25 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2584687, Tx Packets: 1801
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:44:35 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2584687, Tx Packets: 1801
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:44:45 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2584687, Tx Packets: 1801
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:44:55 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2584687, Tx Packets: 1801
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:45:05 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2584687, Tx Packets: 1801
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:45:15 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2584687, Tx Packets: 1801
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:45:26 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2584687, Tx Packets: 1801
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:45:36 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2584687, Tx Packets: 1801
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:45:46 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2584757, Tx Packets: 1802
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:45:56 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2584757, Tx Packets: 1802
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:46:06 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2584827, Tx Packets: 1803
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:46:16 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2584897, Tx Packets: 1804
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:46:26 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585100, Tx Packets: 1805
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:46:36 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585100, Tx Packets: 1805
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:46:46 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585100, Tx Packets: 1805
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:46:56 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585100, Tx Packets: 1805
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:47:06 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585100, Tx Packets: 1805
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:47:16 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585100, Tx Packets: 1805
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:47:26 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585100, Tx Packets: 1805
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:47:36 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585100, Tx Packets: 1805
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:47:46 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585100, Tx Packets: 1805
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:47:56 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585100, Tx Packets: 1805
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:48:06 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585100, Tx Packets: 1805
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:48:16 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585100, Tx Packets: 1805
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:48:26 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585100, Tx Packets: 1805
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:48:36 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585100, Tx Packets: 1805
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:48:46 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585100, Tx Packets: 1805
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:48:56 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585100, Tx Packets: 1805
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:49:06 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585100, Tx Packets: 1805
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:49:16 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585100, Tx Packets: 1805
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:49:26 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585100, Tx Packets: 1805
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:49:36 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585100, Tx Packets: 1805
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:49:46 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585100, Tx Packets: 1805
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:49:56 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585100, Tx Packets: 1805
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:50:06 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585100, Tx Packets: 1805
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:50:16 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585100, Tx Packets: 1805
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:50:26 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585100, Tx Packets: 1805
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:50:36 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585100, Tx Packets: 1805
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:50:46 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585100, Tx Packets: 1805
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:50:56 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585100, Tx Packets: 1805
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:51:06 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585100, Tx Packets: 1805
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:51:16 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585100, Tx Packets: 1805
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:51:26 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585100, Tx Packets: 1805
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:51:36 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585100, Tx Packets: 1805
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:51:46 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585100, Tx Packets: 1805
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:51:56 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585100, Tx Packets: 1805
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:52:06 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585100, Tx Packets: 1805
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:52:16 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585100, Tx Packets: 1805
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:52:26 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585100, Tx Packets: 1805
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:52:36 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585100, Tx Packets: 1805
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:52:46 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585100, Tx Packets: 1805
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:52:56 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585100, Tx Packets: 1805
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:53:06 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585100, Tx Packets: 1805
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:53:16 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585170, Tx Packets: 1806
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:53:26 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585170, Tx Packets: 1806
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:53:36 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585170, Tx Packets: 1806
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:53:46 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585170, Tx Packets: 1806
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:53:56 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585170, Tx Packets: 1806
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:54:06 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585170, Tx Packets: 1806
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:54:16 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585240, Tx Packets: 1807
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:54:26 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585240, Tx Packets: 1807
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:54:36 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585240, Tx Packets: 1807
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:54:46 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585240, Tx Packets: 1807
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:54:56 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:55:06 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:55:16 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:55:26 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:55:36 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:55:46 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:55:56 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:56:06 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:56:16 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:56:26 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:56:36 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:56:46 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:56:56 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:57:06 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:57:16 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:57:26 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:57:36 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:57:46 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:57:56 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:58:06 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:58:16 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:58:26 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:58:36 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:58:46 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:58:56 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:59:06 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:59:16 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:59:26 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:59:36 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:59:46 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 11:59:56 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:00:06 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:00:16 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:00:26 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:00:36 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:00:46 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:00:56 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:01:06 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:01:16 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:01:26 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:01:36 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:01:46 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:01:56 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:02:06 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:02:16 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:02:26 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:02:36 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:02:46 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:02:56 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:03:06 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:03:16 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:03:26 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:03:36 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:03:46 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:03:56 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:04:06 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:04:16 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:04:26 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:04:36 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:04:46 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:04:56 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:05:06 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:05:16 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:05:26 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:05:36 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:05:46 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:05:56 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:06:06 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:06:16 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:06:26 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:06:36 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:06:46 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:06:56 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:07:06 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:07:16 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:07:26 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:07:36 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:07:46 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585513, Tx Packets: 1809
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:07:56 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585583, Tx Packets: 1810
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:08:06 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585583, Tx Packets: 1810
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:08:16 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585583, Tx Packets: 1810
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:08:26 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585583, Tx Packets: 1810
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:08:36 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585583, Tx Packets: 1810
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:08:46 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585583, Tx Packets: 1810
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:08:56 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585583, Tx Packets: 1810
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:09:06 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585583, Tx Packets: 1810
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:09:16 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585583, Tx Packets: 1810
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:09:26 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585583, Tx Packets: 1810
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:09:36 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585583, Tx Packets: 1810
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:09:46 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585583, Tx Packets: 1810
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:09:56 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585583, Tx Packets: 1810
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:10:06 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585583, Tx Packets: 1810
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:10:16 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585583, Tx Packets: 1810
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:10:26 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585583, Tx Packets: 1810
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:10:36 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585583, Tx Packets: 1810
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:10:46 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585583, Tx Packets: 1810
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:10:56 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585583, Tx Packets: 1810
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:11:06 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585583, Tx Packets: 1810
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:11:16 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585583, Tx Packets: 1810
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:11:26 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585583, Tx Packets: 1810
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:11:36 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585583, Tx Packets: 1810
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:11:46 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585723, Tx Packets: 1812
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:11:56 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585723, Tx Packets: 1812
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:12:06 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585926, Tx Packets: 1813
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:12:16 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585926, Tx Packets: 1813
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:12:26 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585926, Tx Packets: 1813
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:12:36 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585926, Tx Packets: 1813
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:12:46 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585926, Tx Packets: 1813
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:12:56 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585926, Tx Packets: 1813
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:13:06 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585926, Tx Packets: 1813
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:13:16 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585926, Tx Packets: 1813
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:13:26 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585926, Tx Packets: 1813
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:13:36 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585926, Tx Packets: 1813
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:13:46 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585926, Tx Packets: 1813
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:13:56 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585926, Tx Packets: 1813
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:14:06 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585926, Tx Packets: 1813
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:14:16 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585926, Tx Packets: 1813
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:14:26 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585926, Tx Packets: 1813
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:14:36 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585926, Tx Packets: 1813
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:14:46 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585926, Tx Packets: 1813
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:14:56 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585926, Tx Packets: 1813
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:15:06 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585926, Tx Packets: 1813
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:15:16 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585926, Tx Packets: 1813
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:15:26 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585926, Tx Packets: 1813
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:15:36 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585926, Tx Packets: 1813
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:15:46 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585926, Tx Packets: 1813
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:15:56 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585926, Tx Packets: 1813
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:16:06 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585926, Tx Packets: 1813
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:16:16 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585926, Tx Packets: 1813
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:16:26 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585926, Tx Packets: 1813
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:16:36 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585926, Tx Packets: 1813
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:16:46 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585926, Tx Packets: 1813
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:16:56 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585926, Tx Packets: 1813
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:17:06 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585926, Tx Packets: 1813
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:17:16 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585926, Tx Packets: 1813
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:17:26 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585926, Tx Packets: 1813
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:17:36 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585926, Tx Packets: 1813
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:17:46 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585926, Tx Packets: 1813
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:17:56 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585926, Tx Packets: 1813
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:18:06 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585926, Tx Packets: 1813
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:18:16 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585926, Tx Packets: 1813
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:18:26 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585926, Tx Packets: 1813
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:18:36 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585926, Tx Packets: 1813
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:18:46 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585926, Tx Packets: 1813
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:18:56 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585926, Tx Packets: 1813
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:19:06 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585926, Tx Packets: 1813
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:19:16 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585926, Tx Packets: 1813
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:19:26 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585926, Tx Packets: 1813
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:19:36 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585926, Tx Packets: 1813
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:19:46 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585926, Tx Packets: 1813
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:19:56 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585926, Tx Packets: 1813
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:20:06 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585926, Tx Packets: 1813
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:20:16 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585926, Tx Packets: 1813
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:20:26 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585926, Tx Packets: 1813
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:20:36 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585926, Tx Packets: 1813
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:20:46 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585926, Tx Packets: 1813
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:20:56 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585926, Tx Packets: 1813
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671
+[Sun Oct  4 12:21:06 2026] --- QoS Stats for Switch 1 ---
+  Port: 3, Queue: 0, Tx Bytes: 2585926, Tx Packets: 1813
+  Port: 3, Queue: 1, Tx Bytes: 9938346, Tx Packets: 6671

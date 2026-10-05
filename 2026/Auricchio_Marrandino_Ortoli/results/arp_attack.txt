@@ -1,0 +1,6 @@
+Starting ARP spoof on 10.0.1.1 pretending to be 10.0.1.254
+Sent malicious ARP reply
+Sent malicious ARP reply
+Sent malicious ARP reply
+Sent malicious ARP reply
+Sent malicious ARP reply
