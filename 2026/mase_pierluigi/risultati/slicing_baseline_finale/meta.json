@@ -1,0 +1,8 @@
+{
+  "scenario": "slicing_baseline_finale",
+  "qos": true,
+  "incrociato": false,
+  "t_inizio": 1789899228.9847932,
+  "t_fine": 1789899292.931034,
+  "durata_s": 60
+}

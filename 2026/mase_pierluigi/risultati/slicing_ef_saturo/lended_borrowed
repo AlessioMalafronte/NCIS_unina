@@ -1,0 +1,24 @@
+sudo tc -s class show dev s1-eth3
+class htb 1:fffe root rate 10Mbit ceil 10Mbit burst 1500b cburst 1500b 
+ Sent 66173009 bytes 52481 pkt (dropped 0, overlimits 7166 requeues 0) 
+ backlog 0b 0p requeues 0
+ lended: 6975 borrowed: 0 giants: 0
+ tokens: -61562 ctokens: -61562
+
+class htb 1:1 parent 1:fffe prio 0 rate 1Mbit ceil 10Mbit burst 1564b cburst 1563b 
+ Sent 18696901 bytes 12379 pkt (dropped 613, overlimits 5468 requeues 0) 
+ backlog 2230122b 998p requeues 0
+ lended: 2775 borrowed: 4340 giants: 0
+ tokens: -352443 ctokens: -18300
+
+class htb 1:2 parent 1:fffe prio 0 rate 5Mbit ceil 10Mbit burst 1563b cburst 1563b 
+ Sent 31137548 bytes 24422 pkt (dropped 0, overlimits 1631 requeues 0) 
+ backlog 274b 1p requeues 0
+ lended: 24075 borrowed: 347 giants: 0
+ tokens: -36262 ctokens: -17962
+
+class htb 1:3 parent 1:fffe prio 0 rate 2Mbit ceil 3Mbit burst 1564b cburst 1563b 
+ Sent 16338560 bytes 15680 pkt (dropped 341, overlimits 5225 requeues 0) 
+ backlog 1016992b 976p requeues 0
+ lended: 13392 borrowed: 2288 giants: 0
+ tokens: -60131 ctokens: -296

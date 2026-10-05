@@ -1,0 +1,146 @@
+# ---------------------------------------------------------------------------
+# Definizione dichiarativa di topology slicing e service slicing.
+#
+# Sorgente unica di verita' del progetto:
+#   - topology/topo_slicing.py  -> dimensiona le code HTB su OVS
+#   - controller/               -> costruisce le regole OpenFlow
+# ---------------------------------------------------------------------------
+
+network:
+  # Capacita' dei link inter-switch. e' il max-rate della configurazione QoS di OVS a limitare il
+  # link, per non sovrapporre due gerarchie HTB sulla stessa interfaccia.
+  link_mbit: 4
+  # Ritardo sui soli link di accesso (host <-> switch di bordo).
+  access_delay_ms: 1
+
+# --- Host noti -------------------------------------------------------------
+# Il controller usa questa mappa per l'ARP responder: le richieste ARP
+# vengono risolte centralmente e mai propagate, cosi' da eliminare ogni
+# forma di flooding e rendere innocuo il ciclo nella topologia.
+hosts:
+  h1: {ip: 10.0.0.1, mac: "00:00:00:00:00:01", switch: s1}
+  h2: {ip: 10.0.0.2, mac: "00:00:00:00:00:02", switch: s1}
+  h3: {ip: 10.0.0.3, mac: "00:00:00:00:00:03", switch: s4}
+  h4: {ip: 10.0.0.4, mac: "00:00:00:00:00:04", switch: s4}
+
+# --- Mappa delle porte OpenFlow --------------------------------------------
+# Mininet assegna i numeri di porta nell'ordine di creazione dei link
+# (vedi topo_slicing.py): prima gli host, poi i link inter-switch.
+# Verificabile così: lancia topo_slicing.py, poi  
+# sh ovs-ofctl -O OpenFlow13 show s1
+# e poi "set"
+ports:
+  s1: {h1: 1, h2: 2, s2: 3, s3: 4}
+  s2: {s1: 1, s4: 2}
+  s3: {s1: 1, s4: 2}
+  s4: {h3: 1, h4: 2, s2: 3, s3: 4}
+
+# --- Monitoraggio ----------------------------------------------------------
+monitor:
+  interval_s: 5
+  csv: risultati/queue_stats.csv
+
+# --- Topology slicing ------------------------------------------------------
+# Ogni slice di topologia e' una coppia di endpoint vincolata a un percorso
+# fisico predeterminato. Le regole di inoltro sono installate proattivamente
+# alla connessione dello switch: nessun apprendimento reattivo, nessun
+# OFPP_FLOOD, quindi nessun broadcast storm nonostante l'anello.
+topology_slices:
+
+  - name: upper
+    description: >
+      Tenant A. Percorso superiore, attraverso lo switch di core s2.
+      E' il percorso su cui si dimostra il service slicing.
+    endpoints: [h1, h3]
+    path: [s1, s2, s4]
+
+  - name: lower
+    description: >
+      Tenant B. Percorso inferiore, attraverso lo switch di core s3.
+      Serve a dimostrare l'isolamento: saturarlo non deve degradare il
+      traffico del tenant A.
+    endpoints: [h2, h4]
+    path: [s1, s3, s4]
+
+# --- Service slicing -------------------------------------------------------
+# Classi di servizio applicate dentro ogni slice di topologia. La
+# classificazione avviene sui soli switch di bordo (marcatura DSCP); gli
+# switch di core fanno match sul solo DSCP. Simile al modello DiffServ.
+service_slices:
+
+  - name: realtime
+    description: >
+      Traffico interattivo real-time. Modellato sul PHB Expedited
+      Forwarding: tasso minimo garantito, con tetto per impedire che la
+      classe prioritaria affami le altre.
+    dscp: 46                 # tipo EF ma senza priorità
+    queue_id: 2
+    guaranteed_mbit: 0.8
+    max_mbit: 1.2
+    priority: 300
+    match:
+      ip_proto: udp
+      dst_port: 5001
+
+  - name: business
+    description: >
+      Traffico applicativo elastico ma importante. Modellato sul PHB
+      Assured Forwarding: banda minima garantita, nessun tetto, prende in
+      prestito la capacita' lasciata libera dalle altre classi.
+    dscp: 18                 # AF
+    queue_id: 1
+    guaranteed_mbit: 2
+    max_mbit: null
+    priority: 200
+    match:
+      ip_proto: udp
+      dst_port: 5002
+
+  - name: best_effort
+    description: >
+      Classe di default: tutto il traffico non classificato. Conserva una
+      garanzia minima per non essere azzerata quando le altre saturano.
+    dscp: 0
+    queue_id: 0
+    guaranteed_mbit: 0.4
+    max_mbit: null
+    priority: 0
+    match: null
+
+# --- Esperimenti -----------------------------------------------------------
+# Traffico offerto durante le prove. La somma dei tassi (21 Mbit/s) eccede
+# volutamente la capacita' del link (10 Mbit/s): senza congestione le
+# garanzie di banda non si manifestano e i due scenari sarebbero identici.
+experiment:
+  duration_s: 60
+  source: h1
+  dest: h3
+  flows:
+    - name: realtime
+      proto: UDP
+      dst_port: 5001        # coincide con il match della slice realtime
+      rate_mbit: 0.7
+      packet_bytes: 1400
+    - name: business
+      proto: UDP
+      dst_port: 5002        # coincide con il match della slice business
+      rate_mbit: 3
+      packet_bytes: 1400
+    - name: best_effort
+      proto: UDP
+      dst_port: 6001        # nessun match: ricade nella classe di default
+      rate_mbit: 3
+      packet_bytes: 1400
+
+  # Carico opzionale sulla slice inferiore (tenant B), attivato con
+  # --incrociato. Il percorso h2->h4 passa da s3 e non condivide alcun
+  # link con quello di h1->h3: se il topology slicing isola davvero i
+  # tenant, le metriche della slice superiore non devono cambiare.
+  cross_traffic:
+    source: h2
+    dest: h4
+    proto: UDP
+    dst_port: 7001
+    rate_mbit: 4
+    packet_bytes: 1400
+ 
